@@ -1,7 +1,7 @@
 {
-  "name": "tsnodex",
+  "name": "tsmongex",
   "version": "1.0.0",
-  "description": "TypeScript + Node + Express Starter Template",
+  "description": "TypeScript + Node + Express + MongoDB Starter Template",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/resuminator/tsnodex.git"
+    "url": "git+https://github.com/viveknigam3003/tsmongex.git"
   },
   "keywords": [
     "TypeScript",
     "NodeJS",
     "ExpressJS"
   ],
-  "author": "Resuminator",
+  "author": "Vivek Nigam",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/resuminator/tsnodex/issues"
+    "url": "https://github.com/viveknigam3003/tsmongex/issues"
   },
-  "homepage": "https://github.com/resuminator/tsnodex#readme",
+  "homepage": "https://github.com/viveknigam3003/tsmongex#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
